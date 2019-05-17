@@ -269,6 +269,8 @@
 
 * What is the difference between iterator and enumeration in java?
 
+* What is the difference between Class Method and Method in java?
+
 * Do you agree we use composition over inheritance? [Composition vs Inheritance](https://www.journaldev.com/12086/composition-vs-inheritance)
 
 * Difference between method overloading and overriding.
@@ -387,6 +389,8 @@ It is also a good practice to annotate overridden methods with `@Override` to ma
 #### Collections and Generics
 
 * `Arrays` vs `ArrayLists`.
+
+* `Arrays` vs `Set`.
 
 * `HashSet` vs `TreeSet`.
 
@@ -1002,6 +1006,8 @@ It is also a good practice to annotate overridden methods with `@Override` to ma
 * What is model?
 
 * Describe MVC.
+
+* Describe Linux Kernal.
 
 * What is controller?
 
